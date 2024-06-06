@@ -26,14 +26,18 @@ Criar um cenário de testes para testar uma API (Hunter)
 - ---
 ### Executando os testes ⚙️
 ⚙️Foi realizado o método POST onde foi criado um novo lead, o teste teve retorno 201 onde houve uma validação de retorno.
+
 Resultado esperado:
- Status code: 200, 201 ou 202;
+
+- Status code: 200, 201 ou 202;
 - String 'Created' no status code do response;
 - Tempo de execução < 2 seg.
   
   ![image](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/bb531f2b-4be3-4de8-ac40-7cb81c9e2dde)
 
-⚙️Foi realizado o método GET Recuperar lead específico, Enviar requisição GET assíncrona para recuperar todos os leads, o teste teve retorno 200 onde houve uma validação de retorno.
+
+⚙️Enviar requisição GET assíncrona para recuperar todos os leads, o teste teve retorno 200 onde houve uma validação de retorno.
+
 Resultado esperado:
 - Status code: 200;
 - String 'OK' no status code do response;
@@ -41,6 +45,34 @@ Resultado esperado:
   
 ![image](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/4ebded8d-507b-4671-a122-889a083ce15f)
 ![image](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/0d9b7613-e446-40bd-a391-d2a0ced3d27e)
+
+
+⚙️Enviar requisição GET assíncrona para recuperar lead específico, o teste teve retorno 200 onde houve uma validação de retorno.
+
+
+Resultado esperado:
+- Status code: 200;
+- String 'OK' no status code do response;
+- Tempo de execução < 2 seg
+
+![image](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/330b572b-d7ab-4651-b6e1-abfe759c63d3)
+
+
+⚙️Enviar requisição PUT assincrona para alterar Lead, Foi alterado o e-amail, o nome e último nome, adiconado "editado" em cada um.
+Resultado esperado:
+- Status code: 204;
+- String 'No Content' no response code.
+
+![image](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/7aa85886-3133-4402-bde0-0d28e906e3cc)
+
+
+⚙️Enviar requisição DELETE assincrona para deletar lead específico, todos excluídos com sucesso.
+
+Resultado esperado:
+- Status code: 204;
+- String 'No Content' no response code.
+
+![image](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/e4cb388b-20b5-4649-a0b5-9ed71efcf2db)
 
 
 
