@@ -6,7 +6,7 @@ Criar um cenário de testes para testar uma API (Hunter)
 ### Tipos de testes 🤖
 
 - Teste funcional Para os testes , foi criado um xlsx com o planejamento dos testes, com detalhamento de cenários de testes, passos e resultado esperado
-- API: Para os testes de api, foi criada uma duas collections no Postman e utilizando o ambiente `Tests`, foi criado casos de teste. A collection está estruturada com Casos de Teste de sucesso e exceção, cobrindo as funcionalidades do
+- API: Para os testes de api, foi criada uma duas collections no Postman e utilizando o ambiente `Desenvolvimento`, foi criado casos de teste. A collection está estruturada com Casos de Teste de sucesso e exceção, cobrindo as funcionalidades do
 
 - ---
 ### Casos de testes📍
