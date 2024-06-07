@@ -77,9 +77,13 @@ Resultado esperado:
 ![image](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/e4cb388b-20b5-4649-a0b5-9ed71efcf2db)
 
 - ---
-### Executando os testes daAPI co Runner
+### Executando os testes da API co Runner
+
+https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/10bddef3-fb38-4185-9542-8154b06167ff
 
 
+
+  
 
 
 
