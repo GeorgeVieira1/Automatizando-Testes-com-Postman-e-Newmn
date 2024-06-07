@@ -1,12 +1,14 @@
 # Automatizando-Testes-com-Postman-e-Newmn
 Criar um cenário de testes para testar uma API (Hunter)
 >Criar um projeto no Postman para verificar a saúde dos recursos dessa API, rodando um conjunto de testes de forma automática.
->
+
 >---
 ### Tipos de testes 🤖
 
 - Teste funcional Para os testes , foi criado um xlsx com o planejamento dos testes, com detalhamento de cenários de testes, passos e resultado esperado, segue o código para o plano de testes: https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn.git.
 - API: Para os testes de api, foi criada uma duas collections no Postman e utilizando o ambiente `Desenvolvimento`, foi criado casos de teste. A collection está estruturada com Casos de Teste de sucesso.
+- Rodar os testes da API de forma automática via Runner.
+- Executar via Newman a "Collection" e "environment" (Desenvolvimento) exportados.
 
 - ---
 ### Casos de testes📍
@@ -74,7 +76,8 @@ Resultado esperado:
 
 ![image](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/e4cb388b-20b5-4649-a0b5-9ed71efcf2db)
 
-
+- ---
+### Executando os testes daAPI co Runner
 
 
 
