@@ -84,13 +84,13 @@ https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets
 
 - ---
 ### Execução das collections  e ambientes exportados com o newman no prompt de comando:
-
+☑️ Permite rodar as collections que foram exportadas do postman, utilizandos as variáveis presentes no ambiente de desevolvimento ou demais.
 
 
 https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/5fd780eb-3abe-4d81-8408-7ebd4e94ea28
 
-
-
+- ---
+### Relatório dos testes com newman: 
 
 
 
