@@ -90,9 +90,11 @@ https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets
 https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/5fd780eb-3abe-4d81-8408-7ebd4e94ea28
 
 - ---
-### Relatório dos testes com newman: 
+### Resultado relatório dos testes com newman: 
+☑️ É uma ferramenta de linha de comendo para executar collections de testes de API.  Ele permite que você integre seus testes de API criados no Postman com pipelines de CI/CD e scripts de automação.
 
 
+https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/d1df0332-6741-4d7a-8a02-7324e4d62e89
 
 
 
