@@ -5,7 +5,7 @@ Criar um cenário de testes para testar uma API (Hunter)
 >---
 ### Tipos de testes 🤖
 
-- Teste funcional Para os testes , foi criado um xlsx com o planejamento dos testes, com detalhamento de cenários de testes, passos e resultado esperado, segue o código para o plano de testes: https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn.git.
+- Teste funcional: 🛞 Para os testes , foi criado um xlsx com o planejamento dos testes, com detalhamento de cenários de testes, passos e resultado esperado, segue o código para o plano de testes: [https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn.git](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/blob/main/plano%2Bde%2Btestes.xlsx).
 - API: Para os testes de api, foi criada uma duas collections no Postman e utilizando o ambiente `Desenvolvimento`, foi criado casos de teste. A collection está estruturada com Casos de Teste de sucesso.
 - Rodar os testes da API de forma automática via Runner.
 - Executar via Newman a "Collection" e "environment" (Desenvolvimento) exportados.
@@ -78,13 +78,13 @@ Resultado esperado:
 ![image](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/e4cb388b-20b5-4649-a0b5-9ed71efcf2db)
 
 - ---
-### Executando os testes da API co Runner
+### Executando os testes da API com Runner
 
 https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/10bddef3-fb38-4185-9542-8154b06167ff
 
 - ---
 ### Execução das collections  e ambientes exportados com o newman no prompt de comando:
-☑️ Permite rodar as collections que foram exportadas do postman, utilizandos as variáveis presentes no ambiente de desevolvimento ou demais.
+☑️ Permite rodar as collections que foram exportadas do postman, utilizandos as variáveis presentes no ambiente de desevolvimento ou demais ambientes.
 
 
 https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/5fd780eb-3abe-4d81-8408-7ebd4e94ea28
