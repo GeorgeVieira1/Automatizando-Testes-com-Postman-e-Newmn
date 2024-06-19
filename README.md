@@ -61,7 +61,8 @@ Resultado esperado:
 ![image](https://github.com/GeorgeVieira1/Automatizando-Testes-com-Postman-e-Newmn/assets/122054835/330b572b-d7ab-4651-b6e1-abfe759c63d3)
 
 
-⚙️Enviar requisição PUT assincrona para alterar Lead, Foi alterado o e-amail, o nome e último nome, adiconado "editado" em cada um.
+⚙️Enviar requisição PUT assincrona para alterar Lead, Foi alterado o e-amail, o nome e último nome, adiconado "editado" em cada um.</br>
+
 Resultado esperado:
 - Status code: 204;
 - String 'No Content' no response code.
